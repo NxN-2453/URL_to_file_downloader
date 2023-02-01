@@ -10,4 +10,4 @@ Supports:
 
 Limitations:
 * torrent and magnet files are not supported
-* only works with links without any authorizations from the side of file
+* only works with links without any authorizations from the side of file server
