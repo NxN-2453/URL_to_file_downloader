@@ -2,8 +2,8 @@ Download files from url to your google drive as long as u have space on your goo
 
 How to use:
 * Running on colab is highly recommended
-* While running, it needs to log in to google drive account and accept the permission to put files inside.
-* And finally enter or paste the url in the box provided.
+* While running, it needs to log in to google drive account and accept the permission to store files inside.
+* And finally enter or paste the url in the box prompt
 
 Supports:
 * links redirecting to files
